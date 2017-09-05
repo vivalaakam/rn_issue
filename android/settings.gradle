@@ -1,0 +1,3 @@
+rootProject.name = 'scroll_test'
+
+include ':app'
